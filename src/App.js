@@ -20,7 +20,6 @@ function App() {
             render={(rp) =>
               <div>
                 <List label="PLAYLIST 1" />
-                <List label="FAVORITE SONGS LIST" />
                 <Form />
               </div>}>
           </Route>
